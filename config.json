@@ -1,0 +1,9 @@
+{
+    "news_api": "YOUR API KEY HERE",
+    "local_location": "Exeter",
+    "national_location": "England",
+    "news_API_domains": "bbc.co.uk, channel4.co.uk, itv.co.uk, skynews.com, independent.co.uk",
+    "covid_terms":  "Covid Coronavirus Covid-19",
+    "num_articles_at_once": 5,
+    "page_size": 50
+}
